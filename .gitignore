@@ -5,3 +5,4 @@ server/.env
 .tmp-exec/
 *.class
 *.out
+.claude/
